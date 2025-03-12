@@ -14,6 +14,8 @@ I imported the libraries that are needed for this project which are;
 I imported the dataset to my Jupyter Notebook for analysis and visualization.
 I cleaned the data using python code and the data types.
 •	I extracted the top 5 rows from the dataframe base on the count column and I calculated the percentage of each column value related to the sum count values, I sorted some columns such as the count and location in the visualization (Pie Chart).
+![plot4](https://github.com/user-attachments/assets/6dc0b8a9-d412-420d-806d-3125ab9abf68)
+
 
 •	I sum the count column base on year and region in the visualization (Bar Chart).
 
@@ -22,3 +24,5 @@ I cleaned the data using python code and the data types.
 •	I created a dataframe column by year column and sum the rate values from the dataset in the visualization (Bar Chart).
 
 •	I grouped the dataframe by the “Subregion” column and find the average count value within each subregion and return the Treemap in the visualization (Treemap).
+
+
